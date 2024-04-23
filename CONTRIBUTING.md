@@ -211,25 +211,6 @@ are easier for maintainers to review and more likely to get merged in a timely m
 sure to always be kind and respectful in your interactions with maintainers and other contributors, you can read
 [the Qiskit Code of Conduct](https://github.com/Qiskit/qiskit/blob/main/CODE_OF_CONDUCT.md).
 
-
-## Contributor Licensing Agreement
-
-Before you can submit any code, all contributors must sign a
-contributor license agreement (CLA). By signing a CLA, you're attesting
-that you are the author of the contribution, and that you're freely
-contributing it under the terms of the Apache-2.0 license.
-
-When you contribute to the Qiskit project with a new pull request,
-a bot will evaluate whether you have signed the CLA. If required, the
-bot will comment on the pull request, including a link to accept the
-agreement. The [individual CLA](https://qiskit.org/license/qiskit-cla.pdf)
-document is available for review as a PDF.
-
-Note: If your contribution is part of your employment or your contribution
-is the property of your employer, then you will more than likely need to sign a
-[corporate CLA](https://qiskit.org/license/qiskit-corporate-cla.pdf) too and
-email it to us at <qiskit@us.ibm.com>.
-
 ## Changelog generation
 
 The changelog is automatically generated as part of the release process
