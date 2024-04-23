@@ -11,7 +11,6 @@ community in this goal.
 * [Set up Python virtual development environment](#set-up-python-virtual-development-environment)
 * [Installing Qiskit from source](#installing-qiskit-from-source)
 * [Issues and pull requests](#issues-and-pull-requests)
-* [Contributor Licensing Agreement](#contributor-licensing-agreement)
 * [Changelog generation](#changelog-generation)
 * [Release notes](#release-notes)
 * [Testing](#testing)
